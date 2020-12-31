@@ -1,0 +1,3 @@
+G:\Vue\NodejsWebApp1\VuejsApp1\obj\Debug\VuejsApp1.njsprojAssemblyReference.cache
+G:\Vue\NodejsWebApp1\VuejsApp1\obj\Debug\VuejsApp1.njsproj.CoreCompileInputs.cache
+G:\Vue\NodejsWebApp1\VuejsApp1\bin\Microsoft.NodejsTools.WebRole.dll
